@@ -1,1 +1,45 @@
+<html>
+    <title>Про технологии</title>
+    <link rel="stylesheet"href="style.css"/>
+    <body>
+        <header style="background-color: blue">          
+            <h1 style="color:white; font-size:30px; text-align:center">Про Технологии</h1>
+            <img src="https://avatars.mds.yandex.net/i?id=75f75d593cd6df59b9cc948b0138e23bf895c92c-12714984-images-thumbs&n=13" width="200px" height="100px">
+            </header>
+            <main style="background-color:darkblue">
+            <img src="https://avatars.mds.yandex.net/get-mpic/11763878/2a000001959224bf2e85b9c612f36d71e377/orig" height="150px"/>
+            <img src="https://cdn1.ozone.ru/s3/multimedia-1-9/c600/7447229649.jpg" height="150px">
+            <img src="https://m.media-amazon.com/images/I/51edaPBDEeL.jpg" height="150px"/>
+            <img src="https://avatars.mds.yandex.net/get-marketpic/12648965/pic61e19487d0d555b2fbc7edc190869689/orig" height="150px">
+            <a href="https://max.ru/" style="color:white">Лучший Мессенджер</a>
+            <a href="https://browser.yandex.ru/" style="color:white">Скачать Яндекс</a>
+            <p style="color:white; font-size:20px"><b>Это наши смартфоны, планшеты, ноутбуки и компьютеры</b></p>
+            <p style="color:white;font-size:20px">Бренды компаний:</p>
+            <table>
+                <tr>
+                    <td style="color:white">Huawei</td>
+                    <td style="color:white">Apple</td>
+                    <td style="color:white">Samsung</td>
+                    <td style="color:white">Xiaomi</td>
+                    </tr>
+                    <tr>
+                        <td style="color:white">Хороший</td>
+                        <td style="color:white">Неплохой</td>
+                        <td style="color:white">Супер</td>
+                        <td style="color:white">Лучший</td>
+                        </tr>
+                </table>
+                </main>
+                <form>
+                <footer style="background-color: black">
+                    <p style="color:white ;font-size: 30px">Наш номер телефона:  +7 999 999 99-99</p>
+                    <p style="color:white ;font-size: 30px">Наш адрес: lostechnology@hihi.com</p>
+                    <p style="color:white ;font-size: 30px">Обратная Связь</p>
+                    <form>
+        <input type="tel">
+        <input type="submit" value="Отправить">
+        </form>
 
+                </footer>
+            </body>
+    </html>
